@@ -15,7 +15,7 @@ const Home = () => {
           </Nav>
           <Nav>
            
-            <Button variant="outline-success">Get Started</Button>
+            <Button variant="btn-btn-success">Get Started</Button>
           </Nav>
         </Navbar.Collapse>
       </Container>
